@@ -1,0 +1,18 @@
+// Place all the styles related to the Images controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.url-text {
+  width: 30%;
+  padding: 10px;
+}
+.image-main-block {
+  .image-block {
+    width: 23%;
+    height: 200px;
+    padding: 10px;
+  }
+}
+.error_message {
+  color: red;
+}

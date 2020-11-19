@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="iconomizer" >
+<symbol id="facebook" viewBox="0 0 42 90">
+    <path class="facebook" d="m 9.078 17.43 c 0 2.268 0 12.391 0 12.391 H 0 V 44.973 H 9.078 V 89.999 H 27.727 V 44.974 H 40.24 c 0 0 1.172 -7.265 1.74 -15.209 -1.629 0 -14.183 0 -14.183 0 0 0 0 -8.815 0 -10.36 0 -1.548 2.033 -3.631 4.043 -3.631 2.006 0 6.239 0 10.16 0 C 42 13.711 42 6.583 42 0 c -5.235 0 -11.189 0 -13.814 0 C 8.617 -0.001 9.078 15.166 9.078 17.43 z" />
+</symbol>
+   
+<svg class="icon facebook ">
+  <use xlink:href="#facebook" />
+</svg>
+</svg>

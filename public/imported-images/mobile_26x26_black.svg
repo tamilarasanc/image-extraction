@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="iconomizer" >
+<symbol id="mobile" viewBox="0 0 67 115">
+	<path class="mobile" d="M 44.9,0 H 6.5 C 3.1,0 0,3.3 0,7.4 V 92 c 0,4.1 3.1,7.4 6.5,7.4 h 38.4 c 3.7,0 6.8,-3.3 6.8,-7.4 V 7.4 C 51.7,3.3 48.6,0 44.9,0 z M 16.4,4.5 h 19 c 0.3,0 1,0.7 1,1.8 0,1.1 -0.3,1.8 -1,1.8 h -19 c -0.3,0 -1,-0.7 -1,-1.8 0,-1.1 0.3,-1.8 1,-1.8 z M 25.9,92 c -2.4,0 -4.1,-2.2 -4.1,-4.4 0,-2.6 2,-4.4 4.1,-4.4 2.4,0 4.1,2.2 4.1,4.4 0,2.6 -2,4.4 -4.1,4.4 z M 46.6,76.1 H 5.2 V 12.2 H 47 v 63.9 z" />
+</symbol>   
+<svg class="icon mobile ">
+  <use xlink:href="#mobile" />
+</svg>
+</svg>

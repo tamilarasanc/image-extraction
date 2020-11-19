@@ -1,0 +1,15 @@
+<%= form_tag("/images", method: "post") do %>
+  <%= label_tag(:q, "Import url:") %>
+  <%= text_field_tag(:url, "", class: 'url-text') %>
+  <%= submit_tag("Submit") %>
+<% end %>
+<% if flash[:message].present? %>
+  <div class="error_message"><%=flash[:message] %></div>
+  <% end %>
+<div class="image-main-block">
+  <% if @images.present? %>
+    <% @images.each do |image| %>
+      <img src="<%= image.path %>" class="image-block">
+    <% end %>
+  <% end %>
+</div>
